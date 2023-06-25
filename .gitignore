@@ -1,0 +1,6 @@
+__pycache__/
+ckpts/*
+results/*
+_README.md
+demo/
+mask*.jpg
